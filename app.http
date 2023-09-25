@@ -43,3 +43,4 @@ GET http://localhost:3007/states/10/stats/
 ###
 
 GET http://localhost:3007/districts/300/details/
+
